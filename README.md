@@ -39,13 +39,8 @@ The project utilizes YOLO and EasyOCR-based license plate recognition algorithms
 - Sync data with the municipal parking management system for reporting and strategic planning.
 
 ## The Architecture
-The system comprises the following core modules:
 
-1. **Image Processing Module**: Vehicle detection using YOLO and license plate recognition with EasyOCR.
-2. **API Layer**: Data processing and storage implemented with Flask.
-3. **User Interface**: A desktop application built with Tkinter for user interaction.
-
-![Smart Parking System Architecture](https://github.com/user/repository_name/raw/main/Smart-Parking-System-Images/Smart%20Parking%20System.png)
+![Smart Parking System Architecture](https://github.com/Alper-Yalcin/Smart-Parking-System/blob/main/Smart%20Parking%20System.png)
 
 ## Detailed Description
 The Smart Parking System leverages state-of-the-art technologies like YOLO (You Only Look Once) for real-time vehicle detection and EasyOCR for license plate recognition. The system aims to improve parking management by providing real-time data on available parking spots, automated vehicle entry and exit, and integration with existing municipal systems for effective traffic management.
@@ -53,7 +48,7 @@ The Smart Parking System leverages state-of-the-art technologies like YOLO (You 
 ## Demo
 Example of the license plate recognition algorithm in action:
 
-![SPS Demo](https://github.com/user/repository_name/raw/main/Smart-Parking-System-Images/SPS.mp4)
+![SPS Demo](https://github.com/Alper-Yalcin/Smart-Parking-System/blob/main/SPS.gif)
 
 ## Resources Used
 - **AI Models**: YOLOv8, EasyOCR
